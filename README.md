@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am pursuing my master's to get an exposure to the Artificial intelligence technology and also learn the various programming languages.
 <!--
 **SidharthaGundarapu/sidharthagundarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
